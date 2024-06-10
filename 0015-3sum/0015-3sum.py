@@ -1,30 +1,37 @@
-class Solution(object):
-    def threeSum(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        
+        nums = sorted(nums)
+        res = []
+        
+        for x in range(0, len(nums)):
+            if x == 0 or nums[x] != nums[x-1]:
+                i = x + 1
+                j = len(nums) - 1
+                target = -1 * nums[x]
+                
+                while( i < j):
+                    #print(x,i,j)
+                    #print(target)
+                    #print(str(nums[i]) , str(nums[j]), target)
+                    if nums[i] + nums[j] == target:
+                        res.append([nums[x],nums[i],nums[j]])
 
-        nums.sort()
-        result = []
-
-        for index in range(len(nums)):
-            if nums[index] > 0:
-                break
-            if index > 0 and nums[index] == nums[index - 1]:
-                continue
-            left, right = index + 1, len(nums) - 1
-            while left < right:
-                if nums[left] + nums[right] < 0 - nums[index]:
-                    left += 1
-                elif nums[left] + nums[right] > 0 - nums[index]:
-                    right -=1
-                else:
-                    result.append([nums[index], nums[left], nums[right]])
-                    left +=1
-                    right -=1
-                    while nums[left] == nums[left -1] and left <right:
-                        left +=1
-        return result
-
-         
+                    if (nums[i] + nums[j]) > target:
+                        #print("in too big")
+                        j = j -1
+                        while( j > -1 and nums[j] == nums[j + 1]):
+                            j = j - 1
+                    else:
+                        i = i + 1
+                        while( i < len(nums) and nums[i] == nums[i - 1]):
+                           
+                            i = i + 1
+                
+        return res
+                    
+                        
+                        
+        
+        
+        
