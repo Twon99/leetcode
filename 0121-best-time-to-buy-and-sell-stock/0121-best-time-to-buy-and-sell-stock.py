@@ -4,7 +4,7 @@ class Solution:
         j = 1
         n = len(prices)
         max_prof = 0
-        while(i < n and j < n):
+        while( j < n):
             if ( prices[i] > prices[j]):
 
                 i = j
