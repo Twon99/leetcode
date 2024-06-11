@@ -18,7 +18,7 @@ class Solution:
                 while(s[j] in dq):
                     dq.popleft()
                 dq.append(s[j])
-                i = i + 1
+                i = j
                 j = j + 1
         return lon
                     
