@@ -26,7 +26,7 @@ class Solution:
                 window_frequency[char] = 1
         #j = len(s1)
         #print(window_frequency)
-        while( j < len(s2) and i< len(s2)):
+        while( j < len(s2) ):
             
             if window_frequency == frequency_dict:
                 print("window",window_frequency )
