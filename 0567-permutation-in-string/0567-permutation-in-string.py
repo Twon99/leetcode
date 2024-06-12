@@ -37,8 +37,8 @@ class Solution:
             else:
                 #print("i = ", str(i) + "s[i] = ", str(s2[i]))
                 #print(window_frequency)
-                if s2[i] in window_frequency:
-                    window_frequency[s2[i]] -= 1
+                #if s2[i] in window_frequency:
+                window_frequency[s2[i]] -= 1
 
                     
                 if window_frequency[s2[i]] == 0:
