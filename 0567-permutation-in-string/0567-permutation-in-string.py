@@ -35,9 +35,7 @@ class Solution:
                 return True
                 
             else:
-                #print("i = ", str(i) + "s[i] = ", str(s2[i]))
-                #print(window_frequency)
-                #if s2[i] in window_frequency:
+
                 window_frequency[s2[i]] -= 1
 
                     
@@ -51,8 +49,7 @@ class Solution:
                     window_frequency[s2[j]] += 1
                 else:
                     window_frequency[s2[j]] = 1
-                #print("j = ", str(j) + "s[j] = ", str(s2[j]))
-                #print(window_frequency)
+
                
         return False
                 
