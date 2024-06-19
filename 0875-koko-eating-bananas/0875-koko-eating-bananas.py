@@ -10,7 +10,7 @@ class Solution:
             for b in piles:
                 #print(math.ceil(b/k))
                 Total += math.ceil(b/k)
-                print("\n")
+                #print("\n")
             if Total <=h:
                 res = k
                 r = k - 1
