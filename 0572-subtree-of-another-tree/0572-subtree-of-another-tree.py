@@ -29,7 +29,6 @@ class Solution:
                 return False
             else:
                 if root.val == subroot.val and dfs(root,subroot):
-                    print(root.val,subroot.val)
                     return True
                 else:
                     return find_subroot(root.left,subroot) or find_subroot(root.right,subroot)
