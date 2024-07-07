@@ -15,8 +15,7 @@ class Solution:
 
             currentSubset.append(nums[i])
             dfs(i + 1)
-            if currentSubset:
-                currentSubset.pop()
+            currentSubset.pop()
             dfs(i+1)
         dfs(0)
         return list(vistSet)
