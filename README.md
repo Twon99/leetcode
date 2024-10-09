@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Twon99/leetcode/tree/master/0455-assign-cookies) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Twon99/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Twon99/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Twon99/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
 |  |
@@ -87,4 +89,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Twon99/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Twon99/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Twon99/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
