@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Twon99/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2155-find-missing-observations](https://github.com/Twon99/leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Twon99/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Twon99/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Twon99/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Twon99/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Twon99/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Twon99/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Twon99/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Twon99/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
