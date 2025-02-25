@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Twon99/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Twon99/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/Twon99/leetcode/tree/master/0455-assign-cookies) |
 | [0966-binary-subarrays-with-sum](https://github.com/Twon99/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Twon99/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/Twon99/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -108,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Twon99/leetcode/tree/master/2434-design-a-number-container-system) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Twon99/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
