@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Twon99/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Twon99/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Twon99/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1023-time-based-key-value-store](https://github.com/Twon99/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Twon99/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2434-design-a-number-container-system](https://github.com/Twon99/leetcode/tree/master/2434-design-a-number-container-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Twon99/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Twon99/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1023-time-based-key-value-store](https://github.com/Twon99/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/Twon99/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [1023-time-based-key-value-store](https://github.com/Twon99/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Twon99/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/Twon99/leetcode/tree/master/2434-design-a-number-container-system) |
 ## String
@@ -101,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Twon99/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Twon99/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Twon99/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1023-time-based-key-value-store](https://github.com/Twon99/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Twon99/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Heap (Priority Queue)
 |  |
